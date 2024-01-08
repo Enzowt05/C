@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
-
+//This is a code for transcribing messages by entering a key
 int main(int argc, string argv[])
 {
     string key = argv[1];
